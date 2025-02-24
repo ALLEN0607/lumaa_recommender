@@ -21,7 +21,7 @@ the system returns the top matching movies based on their descriptions.
   ```bash
   pip install pandas numpy scikit-learn
 
-How to Run:
+## How to Run:
 
 In Jupyter Notebook / Google Colab:
 Open movie_recommendation_system.ipynb.
