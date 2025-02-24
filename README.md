@@ -40,6 +40,10 @@ Armageddon: 0.1307
 Love and Death on Long Island: 0.1171
 Wing Commander: 0.1160
 
+## Demo Video
+Watch the demo video here: https://drive.google.com/file/d/1Zs1xED7XTvaHi6oCeWmcQKToVay0YOfQ/view?usp=drive_link
+
+
 Monthly Salary Expectation
 $2,000 per month (negotiable, aligns with $25/hour for ~20 hours/week)
 
